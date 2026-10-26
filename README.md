@@ -48,7 +48,8 @@ https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/16
 <img width="872" height="540" alt="image" src="https://github.com/user-attachments/assets/82af4629-2a6e-4c98-b9c0-1935c2ee4e56" />
 
 두 번째 "for all users" 선택
-<img width="872" height="540" alt="image" src="https://github.com/user-attachments/assets/eda6c460-6e30-443c-8151-2182bcf439de" />
+<img width="872" height="540" alt="image" src="https://github.com/user-attachments/assets/2a54780a-7f9c-474d-a99e-1130dd1c9a94" />
+
 
 이후 Next 로 설치 (옵션 변경 없음)
 
